@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pedada Pavan Kumar
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Java Backend Development
 - 🌱 I’m currently learning REST API, DSA
 - 💞️ I’m looking to collaborate on API Development
 - 📫 How to reach me pavankumarpk2234@gmail.com
