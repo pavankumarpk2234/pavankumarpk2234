@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning REST API, DSA
 - 💞️ I’m looking to collaborate on API Development
 - 📫 How to reach me pavankumarpk2234@gmail.com
-- 🤓 know more about me ? 
 - ⚡ Fun fact: All is well!
 
 <!---
