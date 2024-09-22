@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on API Development
 - 📫 How to reach me pavankumarpk2234@gmail.com
 - 🤓 know more about me ? 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: All is well!
 
 <!---
 pavankumarpk2234/pavankumarpk2234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
