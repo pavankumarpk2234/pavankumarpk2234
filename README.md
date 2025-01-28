@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on Backend Development
 
-- 💬 Ask me about **Java, MySql, Computer Networks**
+- 💬 Ask me about **OOPS, Java, MySql, Computer Networks**
 
 - 📫 How to reach me **pavankumarpk2234@gmail.com**
 
