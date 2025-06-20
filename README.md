@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pedada Pavan Kumar</h1>
 
 # 💫 About Me:
-- 🔭 I’m currently working on Java Backend Development
+- 🔭 I’m currently working on Java Full Stack SDE
 
-- 🌱 I’m currently learning **REST API, DSA**
+- 🌱 I’m currently learning **Microservices, Hibernate**
 
-- 👯 I’m looking to collaborate on Backend Development
+- 👯 I’m looking to collaborate on Full Stack SDE
 
-- 💬 Ask me about **OOPS, Java, MySql, Computer Networks**
+- 💬 Ask me about **Java, Spring Boot, RESTful API, Microservices, MySql, Computer Networks**
 
-- 📫 How to reach me **pavankumarpk2234@gmail.com**
+- 📫 How to reach me **pavankumarpk2234@gmail.com, +91 6305451814**
 
 - 🤓 know more about me ?  [My Resume](https://drive.google.com/file/d/1V-PRHO9Ma4g3rZFQVoLDC_RoxSahzIe1/view)
 
